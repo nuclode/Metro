@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Metro</string>
+    <string name="fromText">From</string>
+    <string name="toText">To</string>
+    <string name="findText">Find</string>
+    <string name="buttonText">Button</string>
+    <string name="aboutText">About</string>
+    <string name="helpLineText">Helpline</string>
+    <string name="stationText">Station</string>
+    <string name="kmText">Kilometer</string>
+    <string name="fareText">Fare</string>
+    <string name="aboutMetro">Jaipur Metro is a rapid transit system in the city of Jaipur, Rajasthan, India. Construction on the mostly elevated part of the first line, called Phase 1A, comprising 9.63 kilometres (5.98 mi) of route from Mansarovar to Chandpole Bazaar, started on 13 November 2010. After receiving safety clearance from Commissioner of Metro Rail Safety (CMRS) in May 2015, Jaipur Metro began commercial service between Chandpole and Mansarovar on 3 June 2015.The Jaipur Metro Rail system is India\'s sixth metro rail system after those in Kolkata, Delhi NCR, Bangalore, Gurgaon and Mumbai. It is also touted as one of the fastest built metro systems in India.Jaipur Metro is the first metro in India to run on Double-storey elevated road and Metro track.</string>
+    <string name="mansarovarContact">Call Mansarovar Station\n+01415153771</string>
+    <string name="aatishContact">Call New Aatish Market Station\n+01415153772</string>
+    <string name="vivekViharContact">Call Vivek Vihar Station\n+01415153773</string>
+    <string name="shyamNagarContact">Call Shyam Nagar Station\n+01415153774</string>
+    <string name="ramNagarContact">Call Ram Nagar Station\n+0141515375</string>
+    <string name="civilLineContact">Call Civil Lines Station\n+01415153776</string>
+    <string name="railwayStationContact">Call Railway Station Station\n+01415153777</string>
+    <string name="sindhiCampContact">Call Sindhi Camp Station\n+01415153778</string>
+    <string name="chandpoleContact">Call Chandpole Station\n+01415153779</string>
+</resources>

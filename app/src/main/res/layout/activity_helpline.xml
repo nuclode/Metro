@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.vogella.android.metro.Helpline">
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="330dp"
+        android:layout_height="55dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="0dp"
+        android:layout_marginTop="60dp"
+        android:text="@string/mansarovarContact"
+        tools:layout_editor_absoluteX="108dp"
+        tools:layout_editor_absoluteY="36dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="330dp"
+        android:layout_height="55dp"
+        android:layout_alignEnd="@+id/button1"
+        android:layout_below="@+id/button1"
+        android:layout_marginBottom="0dp"
+        android:layout_marginTop="0dp"
+        android:text="@string/aatishContact" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="330dp"
+        android:layout_height="55dp"
+        android:layout_alignEnd="@+id/button2"
+        android:layout_below="@+id/button2"
+        android:layout_marginBottom="0dp"
+        android:layout_marginTop="0dp"
+        android:text="@string/vivekViharContact" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="330dp"
+        android:layout_height="55dp"
+        android:layout_alignEnd="@+id/button3"
+        android:layout_below="@+id/button3"
+        android:layout_marginBottom="0dp"
+        android:layout_marginTop="0dp"
+        android:text="@string/shyamNagarContact" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="330dp"
+        android:layout_height="55dp"
+        android:layout_alignEnd="@+id/button4"
+        android:layout_below="@+id/button4"
+        android:layout_marginBottom="0dp"
+        android:layout_marginTop="0dp"
+        android:text="@string/ramNagarContact" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="330dp"
+        android:layout_height="55dp"
+        android:layout_alignStart="@+id/button5"
+        android:layout_below="@+id/button5"
+        android:layout_marginBottom="0dp"
+        android:layout_marginTop="0dp"
+        android:text="@string/civilLineContact" />
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="330dp"
+        android:layout_height="55dp"
+        android:layout_alignEnd="@+id/button6"
+        android:layout_below="@+id/button6"
+        android:layout_marginBottom="0dp"
+        android:layout_marginTop="0dp"
+        android:text="@string/railwayStationContact" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="330dp"
+        android:layout_height="55dp"
+        android:layout_alignStart="@+id/button7"
+        android:layout_below="@+id/button7"
+        android:layout_marginBottom="0dp"
+        android:layout_marginTop="0dp"
+        android:text="@string/sindhiCampContact" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="330dp"
+        android:layout_height="55dp"
+        android:layout_alignEnd="@+id/button8"
+        android:layout_below="@+id/button8"
+        android:layout_marginBottom="0dp"
+        android:text="@string/chandpoleContact" />
+</RelativeLayout>
